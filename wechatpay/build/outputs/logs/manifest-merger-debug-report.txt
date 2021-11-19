@@ -1,0 +1,41 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/wechatpay/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/wechatpay/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/wechatpay/src/main/AndroidManifest.xml:2:1-19:12
+	package
+		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/wechatpay/src/main/AndroidManifest.xml:3:5-52
+		INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/wechatpay/src/main/AndroidManifest.xml
+		INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/wechatpay/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/wechatpay/src/main/AndroidManifest.xml:2:11-69
+queries
+ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/wechatpay/src/main/AndroidManifest.xml:7:5-9:15
+package#com.tencent.mm
+ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/wechatpay/src/main/AndroidManifest.xml:8:9-50
+	android:name
+		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/wechatpay/src/main/AndroidManifest.xml:8:18-47
+application
+ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/wechatpay/src/main/AndroidManifest.xml:11:5-18:19
+activity#com.stripe.android.payments.wechatpay.WeChatPayAuthActivity
+ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/wechatpay/src/main/AndroidManifest.xml:14:9-17:46
+	android:launchMode
+		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/wechatpay/src/main/AndroidManifest.xml:17:13-43
+	android:exported
+		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/wechatpay/src/main/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/wechatpay/src/main/AndroidManifest.xml:15:13-50
+uses-sdk
+INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/wechatpay/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/wechatpay/src/main/AndroidManifest.xml
+INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/wechatpay/src/main/AndroidManifest.xml
+INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/wechatpay/src/main/AndroidManifest.xml
+INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/wechatpay/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/wechatpay/src/main/AndroidManifest.xml
+		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/wechatpay/src/main/AndroidManifest.xml
+		INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/wechatpay/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/wechatpay/src/main/AndroidManifest.xml
+		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/wechatpay/src/main/AndroidManifest.xml
+		INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/wechatpay/src/main/AndroidManifest.xml

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stripe-appstore.iml" filepath="$PROJECT_DIR$/.idea/modules/stripe-appstore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cardverificationsheet/stripe-appstore.cardverificationsheet.iml" filepath="$PROJECT_DIR$/.idea/modules/cardverificationsheet/stripe-appstore.cardverificationsheet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cardverificationsheet-example/stripe-appstore.cardverificationsheet-example.iml" filepath="$PROJECT_DIR$/.idea/modules/cardverificationsheet-example/stripe-appstore.cardverificationsheet-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/example/stripe-appstore.example.iml" filepath="$PROJECT_DIR$/.idea/modules/example/stripe-appstore.example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/payments/stripe-appstore.payments.iml" filepath="$PROJECT_DIR$/.idea/modules/payments/stripe-appstore.payments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/payments-core/stripe-appstore.payments-core.iml" filepath="$PROJECT_DIR$/.idea/modules/payments-core/stripe-appstore.payments-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/paymentsheet/stripe-appstore.paymentsheet.iml" filepath="$PROJECT_DIR$/.idea/modules/paymentsheet/stripe-appstore.paymentsheet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/paymentsheet-example/stripe-appstore.paymentsheet-example.iml" filepath="$PROJECT_DIR$/.idea/modules/paymentsheet-example/stripe-appstore.paymentsheet-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stripe-test-e2e/stripe-appstore.stripe-test-e2e.iml" filepath="$PROJECT_DIR$/.idea/modules/stripe-test-e2e/stripe-appstore.stripe-test-e2e.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wechatpay/stripe-appstore.wechatpay.iml" filepath="$PROJECT_DIR$/.idea/modules/wechatpay/stripe-appstore.wechatpay.iml" />
+    </modules>
+  </component>
+</project>

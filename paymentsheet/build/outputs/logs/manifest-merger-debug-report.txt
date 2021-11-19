@@ -1,0 +1,43 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/paymentsheet/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/paymentsheet/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/paymentsheet/src/main/AndroidManifest.xml:2:1-15:12
+	package
+		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/paymentsheet/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/paymentsheet/src/main/AndroidManifest.xml
+		INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/paymentsheet/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/paymentsheet/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/paymentsheet/src/main/AndroidManifest.xml:5:5-14:19
+activity#com.stripe.android.paymentsheet.PaymentSheetActivity
+ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/paymentsheet/src/main/AndroidManifest.xml:6:9-9:40
+	android:exported
+		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/paymentsheet/src/main/AndroidManifest.xml:9:13-37
+	android:theme
+		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/paymentsheet/src/main/AndroidManifest.xml:8:13-66
+	android:name
+		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/paymentsheet/src/main/AndroidManifest.xml:7:13-49
+activity#com.stripe.android.paymentsheet.PaymentOptionsActivity
+ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/paymentsheet/src/main/AndroidManifest.xml:10:9-13:40
+	android:exported
+		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/paymentsheet/src/main/AndroidManifest.xml:13:13-37
+	android:theme
+		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/paymentsheet/src/main/AndroidManifest.xml:12:13-66
+	android:name
+		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/paymentsheet/src/main/AndroidManifest.xml:11:13-51
+uses-sdk
+INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/paymentsheet/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/paymentsheet/src/main/AndroidManifest.xml
+INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/paymentsheet/src/main/AndroidManifest.xml
+INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/paymentsheet/src/main/AndroidManifest.xml
+INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/paymentsheet/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/paymentsheet/src/main/AndroidManifest.xml
+		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/paymentsheet/src/main/AndroidManifest.xml
+		INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/paymentsheet/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/paymentsheet/src/main/AndroidManifest.xml
+		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/paymentsheet/src/main/AndroidManifest.xml
+		INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/paymentsheet/src/main/AndroidManifest.xml

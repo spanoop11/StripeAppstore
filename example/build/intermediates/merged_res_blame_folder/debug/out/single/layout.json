@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/sofort_activity.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/sofort_activity.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/google_pay_activity.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/google_pay_activity.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/launcher_item.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/launcher_item.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/create_card_source_activity.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/create_card_source_activity.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/create_sepa_debit_activity.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/create_sepa_debit_activity.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/netbanking_payment_activity.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/netbanking_payment_activity.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragments_example_activity.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/fragments_example_activity.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/klarna_payment_activity.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/klarna_payment_activity.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/google_pay_button.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/google_pay_button.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/simple_payment_method_activity.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/simple_payment_method_activity.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/create_card_token_activity.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/create_card_token_activity.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/payment_method_item.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/payment_method_item.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/upi_payment_activity.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/upi_payment_activity.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/google_pay_activity_playground.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/google_pay_activity_playground.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/launch_payment_session_fragment.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/launch_payment_session_fragment.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/token_item.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/token_item.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/sources_list_item.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/sources_list_item.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/bank_selector_payment_activity.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/bank_selector_payment_activity.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/upi_waiting_activity.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/upi_waiting_activity.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/connect_example_activity.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/connect_example_activity.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/create_card_payment_method_activity.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/create_card_payment_method_activity.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/customer_session_activity.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/customer_session_activity.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/card_brand_item.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/card_brand_item.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dropdown_menu_popup_item.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/dropdown_menu_popup_item.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/polling_list_headers.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/polling_list_headers.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/payment_session_activity.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/payment_session_activity.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/bacs_debit_activity.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/bacs_debit_activity.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/card_brands_activity.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/card_brands_activity.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/becs_debit_activity.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/becs_debit_activity.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/launcher_activity.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/launcher_activity.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/payment_auth_activity.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/payment_auth_activity.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/klarna_source_activity.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/klarna_source_activity.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/add_payment_method_footer.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/add_payment_method_footer.xml"
+    }
+]

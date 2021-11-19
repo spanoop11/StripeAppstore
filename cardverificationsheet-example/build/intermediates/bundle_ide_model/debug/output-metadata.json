@@ -1,0 +1,18 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "BUNDLE",
+    "kind": "RegularFile"
+  },
+  "applicationId": "com.stripe.android.cardverificationsheet.example",
+  "variantName": "debug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "outputFile": "../../../outputs/bundle/debug/cardverificationsheet-example-debug.aab"
+    }
+  ],
+  "elementType": "File"
+}
