@@ -12,7 +12,6 @@ import android.view.View.OnFocusChangeListener
 import android.widget.EditText
 import android.widget.FrameLayout
 import androidx.annotation.VisibleForTesting
-import androidx.compose.ui.graphics.Color
 import androidx.core.os.ConfigurationCompat
 import androidx.core.view.isVisible
 import androidx.core.widget.doAfterTextChanged
@@ -26,7 +25,7 @@ import com.stripe.android.paymentsheet.databinding.StripeBillingAddressLayoutBin
 import com.stripe.android.view.Country
 import com.stripe.android.view.CountryUtils
 import com.stripe.android.view.PostalCodeValidator
-import java.util.Locale
+import java.util.*
 import kotlin.properties.Delegates
 
 internal class BillingAddressView @JvmOverloads constructor(

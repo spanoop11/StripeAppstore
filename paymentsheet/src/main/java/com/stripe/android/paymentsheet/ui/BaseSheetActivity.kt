@@ -1,12 +1,14 @@
 package com.stripe.android.paymentsheet.ui
 
 import android.animation.LayoutTransition
-import android.content.pm.ActivityInfo
 import android.graphics.Insets
 import android.os.Build
 import android.os.Bundle
+import android.util.DisplayMetrics
 import android.view.View
 import android.view.ViewGroup
+import android.view.WindowInsets
+import android.view.WindowMetrics
 import android.widget.ScrollView
 import android.widget.TextView
 import androidx.annotation.DrawableRes
@@ -21,10 +23,7 @@ import com.stripe.android.paymentsheet.BottomSheetController
 import com.stripe.android.paymentsheet.R
 import com.stripe.android.paymentsheet.viewmodels.BaseSheetViewModel
 import com.stripe.android.view.KeyboardController
-import android.util.DisplayMetrics
 import kotlin.math.roundToInt
-import android.view.WindowInsets
-import android.view.WindowMetrics
 
 internal abstract class BaseSheetActivity<ResultType> : AppCompatActivity() {
     abstract val viewModel: BaseSheetViewModel<*>
