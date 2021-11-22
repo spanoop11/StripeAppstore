@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml",
+            "outputFile": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml",
             "map": [
                 {
                     "source": "/home/anoop/.gradle/caches/transforms-3/afdbbd04f89eacd867274652a3cb48dc/transformed/navigation-ui-2.3.5/res/values-zh-rTW/values-zh-rTW.xml",

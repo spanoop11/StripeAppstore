@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/wechatpay/build/intermediates/incremental/mergeDebugResources/merged.dir/values-is/values-is.xml",
+            "outputFile": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/wechatpay/build/intermediates/merged_res/debug/values-is/values-is.xml",
             "map": [
                 {
                     "source": "/home/anoop/.gradle/caches/transforms-3/b634d52483619a75707703449f50f00d/transformed/play-services-base-17.5.0/res/values-is/values.xml",
@@ -144,7 +144,7 @@
             ]
         },
         {
-            "outputFile": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/wechatpay/build/intermediates/merged_res/debug/values-is/values-is.xml",
+            "outputFile": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/wechatpay/build/intermediates/incremental/mergeDebugResources/merged.dir/values-is/values-is.xml",
             "map": [
                 {
                     "source": "/home/anoop/.gradle/caches/transforms-3/b634d52483619a75707703449f50f00d/transformed/play-services-base-17.5.0/res/values-is/values.xml",

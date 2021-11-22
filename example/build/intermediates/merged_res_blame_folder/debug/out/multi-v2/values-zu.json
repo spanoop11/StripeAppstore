@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zu/values-zu.xml",
+            "outputFile": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zu/values-zu.xml",
             "map": [
                 {
                     "source": "/home/anoop/.gradle/caches/transforms-3/b634d52483619a75707703449f50f00d/transformed/play-services-base-17.5.0/res/values-zu/values.xml",

@@ -1,10 +1,10 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/AndroidManifest.xml:2:1-28:12
-MERGED from [:cardverificationsheet] /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-28:12
+ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/AndroidManifest.xml:2:1-28:12
+MERGED from [:cardverificationsheet] /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-28:12
 MERGED from [androidx.databinding:viewbinding:7.0.3] /home/anoop/.gradle/caches/transforms-3/72b2b43d5488dbaa475c00ca195000c9/transformed/viewbinding-7.0.3/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] /home/anoop/.gradle/caches/transforms-3/2799ac9e8e48a59d1e4b064e96e65d8c/transformed/navigation-fragment-ktx-2.3.5/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.4.0] /home/anoop/.gradle/caches/transforms-3/0f4164958113cddecd1ad9ff3cfd4f90/transformed/lifecycle-viewmodel-compose-2.4.0/AndroidManifest.xml:17:1-24:12
@@ -86,29 +86,29 @@ MERGED from [androidx.compose.ui:ui-util:1.0.5] /home/anoop/.gradle/caches/trans
 MERGED from [org.tensorflow:tensorflow-lite:2.7.0] /home/anoop/.gradle/caches/transforms-3/82240c6a80372a62f47492f2d3dd41c3/transformed/tensorflow-lite-2.7.0/AndroidManifest.xml:2:1-12:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/anoop/.gradle/caches/transforms-3/47ae735cba79aed851eef028bbeff23b/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [org.tensorflow:tensorflow-lite-api:2.7.0] /home/anoop/.gradle/caches/transforms-3/b8c2194ba6c78d64a49a201f8a7e369b/transformed/tensorflow-lite-api-2.7.0/AndroidManifest.xml:2:1-12:12
-INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/AndroidManifest.xml:2:1-28:12
 	package
-		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/AndroidManifest.xml:4:5-63
-		INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/AndroidManifest.xml
-		INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/AndroidManifest.xml
+		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/AndroidManifest.xml:4:5-63
+		INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/AndroidManifest.xml
+		INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/AndroidManifest.xml
-		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/AndroidManifest.xml:2:1-28:12
-		INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/AndroidManifest.xml
+		INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/AndroidManifest.xml
+		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/AndroidManifest.xml:3:5-51
+		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/AndroidManifest.xml
-		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/AndroidManifest.xml:2:1-28:12
-		INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/AndroidManifest.xml
+		INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/AndroidManifest.xml
+		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/AndroidManifest.xml:6:5-26:19
-MERGED from [:cardverificationsheet] /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:5-26:19
-MERGED from [:cardverificationsheet] /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:5-26:19
+ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/AndroidManifest.xml:6:5-26:19
+MERGED from [:cardverificationsheet] /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:5-26:19
+MERGED from [:cardverificationsheet] /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:5-26:19
 MERGED from [androidx.compose.ui:ui-tooling:1.0.5] /home/anoop/.gradle/caches/transforms-3/6da56fae36f06f545d229fdc178453d0/transformed/ui-tooling-1.0.5/AndroidManifest.xml:24:5-28:19
 MERGED from [androidx.compose.ui:ui-tooling:1.0.5] /home/anoop/.gradle/caches/transforms-3/6da56fae36f06f545d229fdc178453d0/transformed/ui-tooling-1.0.5/AndroidManifest.xml:24:5-28:19
 MERGED from [com.google.android.material:material:1.4.0] /home/anoop/.gradle/caches/transforms-3/686584baae0d6263fccf2039cacb7bbe/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
@@ -130,47 +130,47 @@ MERGED from [org.tensorflow:tensorflow-lite-api:2.7.0] /home/anoop/.gradle/cache
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.7.0] /home/anoop/.gradle/caches/transforms-3/bfad5d851342d1ed67694643b40debfc/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/AndroidManifest.xml:8:9-41
 	tools:ignore
-		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/AndroidManifest.xml:12:9-35
+		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/AndroidManifest.xml:12:9-35
 	android:roundIcon
-		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/AndroidManifest.xml:7:9-43
 	android:theme
-		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/AndroidManifest.xml:11:9-40
+		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/AndroidManifest.xml:11:9-40
 activity#com.stripe.android.cardverificationsheet.example.MainActivity
-ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/AndroidManifest.xml:14:9-23:20
+ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/AndroidManifest.xml:14:9-23:20
 	android:label
-		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/AndroidManifest.xml:16:13-45
+		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/AndroidManifest.xml:16:13-45
 	android:exported
-		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/AndroidManifest.xml:18:13-36
+		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/AndroidManifest.xml:18:13-36
 	android:theme
-		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/AndroidManifest.xml:17:13-56
+		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/AndroidManifest.xml:17:13-56
 	android:name
-		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/AndroidManifest.xml:15:13-41
+		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/AndroidManifest.xml:15:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/AndroidManifest.xml:19:13-22:29
+ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/AndroidManifest.xml:19:13-22:29
 action#android.intent.action.MAIN
-ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/AndroidManifest.xml:20:17-69
+ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/AndroidManifest.xml:20:17-69
 	android:name
-		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/AndroidManifest.xml:20:25-66
+		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/AndroidManifest.xml:20:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/AndroidManifest.xml:21:17-77
+ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/AndroidManifest.xml:21:17-77
 	android:name
-		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/AndroidManifest.xml:21:27-74
+		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/AndroidManifest.xml:21:27-74
 activity#com.stripe.android.cardverificationsheet.example.activity.LaunchCardVerificationSheetCompleteActivity
-ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/AndroidManifest.xml:25:9-90
+ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/AndroidManifest.xml:25:9-90
 	android:name
-		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/AndroidManifest.xml:25:19-87
+		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/AndroidManifest.xml:25:19-87
 uses-sdk
-INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/AndroidManifest.xml
-INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/AndroidManifest.xml
-MERGED from [:cardverificationsheet] /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:cardverificationsheet] /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/AndroidManifest.xml
+INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/AndroidManifest.xml
+MERGED from [:cardverificationsheet] /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:cardverificationsheet] /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.databinding:viewbinding:7.0.3] /home/anoop/.gradle/caches/transforms-3/72b2b43d5488dbaa475c00ca195000c9/transformed/viewbinding-7.0.3/AndroidManifest.xml:20:5-44
 MERGED from [androidx.databinding:viewbinding:7.0.3] /home/anoop/.gradle/caches/transforms-3/72b2b43d5488dbaa475c00ca195000c9/transformed/viewbinding-7.0.3/AndroidManifest.xml:20:5-44
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] /home/anoop/.gradle/caches/transforms-3/2799ac9e8e48a59d1e4b064e96e65d8c/transformed/navigation-fragment-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
@@ -333,50 +333,50 @@ MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/anoop/.gra
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/anoop/.gradle/caches/transforms-3/47ae735cba79aed851eef028bbeff23b/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [org.tensorflow:tensorflow-lite-api:2.7.0] /home/anoop/.gradle/caches/transforms-3/b8c2194ba6c78d64a49a201f8a7e369b/transformed/tensorflow-lite-api-2.7.0/AndroidManifest.xml:7:5-8:41
 MERGED from [org.tensorflow:tensorflow-lite-api:2.7.0] /home/anoop/.gradle/caches/transforms-3/b8c2194ba6c78d64a49a201f8a7e369b/transformed/tensorflow-lite-api-2.7.0/AndroidManifest.xml:7:5-8:41
-INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/AndroidManifest.xml
-INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/AndroidManifest.xml
+INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/AndroidManifest.xml
+INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/AndroidManifest.xml
-		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/AndroidManifest.xml
-		INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/AndroidManifest.xml
+		INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/AndroidManifest.xml
+		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/AndroidManifest.xml
+		INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/AndroidManifest.xml
-		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/AndroidManifest.xml
-		MERGED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/AndroidManifest.xml
-		MERGED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/AndroidManifest.xml
-		INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/AndroidManifest.xml
+		INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/AndroidManifest.xml
+		ADDED from /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/AndroidManifest.xml
+		MERGED from /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/AndroidManifest.xml
+		MERGED from /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/AndroidManifest.xml
+		INJECTED from /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/AndroidManifest.xml
 uses-permission#android.permission.CAMERA
-ADDED from [:cardverificationsheet] /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-65
+ADDED from [:cardverificationsheet] /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-65
 	android:name
-		ADDED from [:cardverificationsheet] /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-62
+		ADDED from [:cardverificationsheet] /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-62
 uses-permission#android.permission.FLASHLIGHT
-ADDED from [:cardverificationsheet] /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-69
+ADDED from [:cardverificationsheet] /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-69
 	android:name
-		ADDED from [:cardverificationsheet] /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-66
+		ADDED from [:cardverificationsheet] /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-66
 uses-feature#android.hardware.camera
-ADDED from [:cardverificationsheet] /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:5-14:36
+ADDED from [:cardverificationsheet] /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:5-14:36
 	android:required
-		ADDED from [:cardverificationsheet] /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:9-33
+		ADDED from [:cardverificationsheet] /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:9-33
 	android:name
-		ADDED from [:cardverificationsheet] /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:9-47
+		ADDED from [:cardverificationsheet] /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:9-47
 uses-feature#android.hardware.camera.autofocus
-ADDED from [:cardverificationsheet] /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:5-17:36
+ADDED from [:cardverificationsheet] /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:5-17:36
 	android:required
-		ADDED from [:cardverificationsheet] /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:9-33
+		ADDED from [:cardverificationsheet] /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:9-33
 	android:name
-		ADDED from [:cardverificationsheet] /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:9-57
+		ADDED from [:cardverificationsheet] /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:9-57
 uses-permission#android.permission.INTERNET
-ADDED from [:cardverificationsheet] /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:5-67
+ADDED from [:cardverificationsheet] /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:5-67
 	android:name
-		ADDED from [:cardverificationsheet] /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:22-64
+		ADDED from [:cardverificationsheet] /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:22-64
 activity#com.stripe.android.cardverificationsheet.cardverifyui.CardVerifyActivity
-ADDED from [:cardverificationsheet] /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:9-25:57
+ADDED from [:cardverificationsheet] /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:9-25:57
 	android:screenOrientation
-		ADDED from [:cardverificationsheet] /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:13-49
+		ADDED from [:cardverificationsheet] /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:13-49
 	android:theme
-		ADDED from [:cardverificationsheet] /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:13-54
+		ADDED from [:cardverificationsheet] /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:13-54
 	android:name
-		ADDED from [:cardverificationsheet] /home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-100
+		ADDED from [:cardverificationsheet] /home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-100
 activity#androidx.compose.ui.tooling.PreviewActivity
 ADDED from [androidx.compose.ui:ui-tooling:1.0.5] /home/anoop/.gradle/caches/transforms-3/6da56fae36f06f545d229fdc178453d0/transformed/ui-tooling-1.0.5/AndroidManifest.xml:25:9-27:39
 	android:exported

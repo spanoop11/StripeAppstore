@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/wechatpay/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldpi-v4/values-ldpi-v4.xml",
+            "outputFile": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/wechatpay/build/intermediates/merged_res/debug/values-ldpi-v4/values-ldpi-v4.xml",
             "map": [
                 {
-                    "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/payments-core/build/intermediates/packaged_res/debug/values-ldpi-v4/values-ldpi-v4.xml",
+                    "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/payments-core/build/intermediates/packaged_res/debug/values-ldpi-v4/values-ldpi-v4.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -16,10 +16,10 @@
             ]
         },
         {
-            "outputFile": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/wechatpay/build/intermediates/merged_res/debug/values-ldpi-v4/values-ldpi-v4.xml",
+            "outputFile": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/wechatpay/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldpi-v4/values-ldpi-v4.xml",
             "map": [
                 {
-                    "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/payments-core/build/intermediates/packaged_res/debug/values-ldpi-v4/values-ldpi-v4.xml",
+                    "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/payments-core/build/intermediates/packaged_res/debug/values-ldpi-v4/values-ldpi-v4.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

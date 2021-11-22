@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/build/intermediates/merged_res/debug/drawable-night-mdpi-v8/stripe_googlepay_button_no_shadow_background_image.9.png",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/res/drawable-night-mdpi/stripe_googlepay_button_no_shadow_background_image.9.png"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/build/intermediates/merged_res/debug/drawable-night-mdpi-v8/stripe_googlepay_button_no_shadow_background_image_pressed.9.png",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/res/drawable-night-mdpi/stripe_googlepay_button_no_shadow_background_image_pressed.9.png"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/build/intermediates/merged_res/debug/drawable-night-mdpi-v8/stripe_googlepay_button_no_shadow_background_image_focused.9.png",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/res/drawable-night-mdpi/stripe_googlepay_button_no_shadow_background_image_focused.9.png"
+    }
+]

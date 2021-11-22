@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-am/values-am.xml",
+            "outputFile": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-am/values-am.xml",
             "map": [
                 {
                     "source": "/home/anoop/.gradle/caches/transforms-3/b66d576b2586bc03f27c2d5fe84bae1b/transformed/ui-1.0.5/res/values-am/values-am.xml",

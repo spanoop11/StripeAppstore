@@ -1,8 +1,25 @@
 {
     "logs": [
         {
-            "outputFile": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
+                {
+                    "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "1,2,5,6,4",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "97,164,309,370,237",
+                        "endColumns": "66,71,60,51,71",
+                        "endOffsets": "159,231,365,417,304"
+                    },
+                    "to": {
+                        "startLines": "1213,1217,1222,1223,1312",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "76656,77242,77660,77721,89885",
+                        "endColumns": "66,71,60,51,71",
+                        "endOffsets": "76718,77309,77716,77768,89952"
+                    }
+                },
                 {
                     "source": "/home/anoop/.gradle/caches/transforms-3/8c3087aaad5ec8b3138d4d6f9d837ea7/transformed/recyclerview-1.1.0/res/values/values.xml",
                     "from": {
@@ -97,6 +114,23 @@
                     }
                 },
                 {
+                    "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "7,2,3,4,5,6,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "286,55,102,149,196,241,328",
+                        "endColumns": "41,46,46,46,44,44,41",
+                        "endOffsets": "323,97,144,191,236,281,365"
+                    },
+                    "to": {
+                        "startLines": "438,527,528,529,577,578,581",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "21486,27548,27595,27642,33583,33628,33794",
+                        "endColumns": "41,46,46,46,44,44,41",
+                        "endOffsets": "21523,27590,27637,27684,33623,33668,33831"
+                    }
+                },
+                {
                     "source": "/home/anoop/.gradle/caches/transforms-3/b79b3304caf713fc48742d3f14bef06b/transformed/cardview-1.0.0/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,35,36,37,38,45,47,50,7",
@@ -132,6 +166,25 @@
                         "endLines": "2,8,10,18,19,25,31,46,47,48,49,54,55,56,57,65,73,76,84,89,90,95,100,101,102,107,108,113,114,119,120,121,127,128,129,134,139,140,150,154,155,156,157,160,161,164,167,168,169,170,171,174,177,178,179,180,185,188,191,192,193,198,199,200,203,206,207,210,213,216,219,220,221,224,227,228,233,234,239,242,245,246,247,248,249,250,251,252,253,254,269,310,311,312,313,322,323,324,327,332,343,362,381,390,397,398,404,405,406,407,416,420,1088,6796,6797,6798,6799,6899,7171,7180,7181,7182,7183,7184,7189,7190,7191,7192,7677,7678,7679,7685,7686,7692,7868,7880,8059,8329,8362,8961,8978,8979",
                         "endColumns": "56,11,60,11,51,47,50,51,60,61,45,11,51,49,50,11,11,44,58,11,56,11,11,53,56,11,57,11,55,11,56,50,11,51,54,11,11,49,55,11,60,59,69,11,67,11,11,61,64,67,66,11,11,66,64,64,11,11,11,65,66,11,68,65,11,11,66,11,11,11,11,55,64,11,11,64,11,66,11,11,11,64,61,61,61,58,59,60,60,58,11,50,48,47,57,11,46,59,11,11,45,46,51,11,11,54,11,45,54,44,11,11,40,4259,3645,143,4346,502,419,630,651,40,53,49,382,652,497,2917,345,231,139,35,129,133,35,35,231,126,105,483,35,302",
                         "endOffsets": "202,444,554,845,897,1229,1539,2324,2385,2447,2493,2687,2739,2789,2840,3149,3461,3617,4090,4287,4344,4539,4720,4774,4831,5023,5081,5277,5333,5527,5584,5635,5857,5909,5964,6154,6330,6380,6908,7068,7129,7189,7259,7392,7460,7589,7715,7777,7842,7910,7977,8100,8225,8292,8357,8422,8603,8724,8845,8911,8978,9188,9257,9323,9448,9574,9641,9767,9894,10019,10146,10202,10267,10393,10516,10581,10789,10856,11036,11156,11276,11341,11403,11465,11527,11586,11646,11707,11768,11827,12478,14912,14961,15009,15067,15473,15520,15580,15686,15866,16496,17584,18695,19025,19308,19363,19625,19671,19726,19771,20112,20249,68664,441179,444825,444969,449316,455638,471300,472453,473105,473146,473200,473250,473872,474525,475023,477941,502199,502431,502571,503076,503206,503633,513558,514590,524842,538998,541007,575332,576454,576757"
+                    }
+                },
+                {
+                    "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/res/values/themes.xml",
+                    "from": {
+                        "startLines": "2,21,16,23",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "100,968,817,1060",
+                        "endLines": "14,21,19,23",
+                        "endColumns": "12,90,12,80",
+                        "endOffsets": "811,1054,962,1136"
+                    },
+                    "to": {
+                        "startLines": "1356,1369,1370,1374",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "94572,95286,95376,95526",
+                        "endLines": "1368,1369,1373,1374",
+                        "endColumns": "12,89,12,79",
+                        "endOffsets": "95281,95371,95521,95601"
                     }
                 },
                 {
@@ -209,24 +262,7 @@
                     }
                 },
                 {
-                    "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/res/values/strings.xml",
-                    "from": {
-                        "startLines": "1,2,5,6,4",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "97,164,309,370,237",
-                        "endColumns": "66,71,60,51,71",
-                        "endOffsets": "159,231,365,417,304"
-                    },
-                    "to": {
-                        "startLines": "1213,1217,1222,1223,1312",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "76656,77242,77660,77721,89885",
-                        "endColumns": "66,71,60,51,71",
-                        "endOffsets": "76718,77309,77716,77768,89952"
-                    }
-                },
-                {
-                    "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet/build/intermediates/packaged_res/debug/values/values.xml",
+                    "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet/build/intermediates/packaged_res/debug/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,110,131",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -302,23 +338,6 @@
                     }
                 },
                 {
-                    "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/res/values/colors.xml",
-                    "from": {
-                        "startLines": "7,2,3,4,5,6,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "286,55,102,149,196,241,328",
-                        "endColumns": "41,46,46,46,44,44,41",
-                        "endOffsets": "323,97,144,191,236,281,365"
-                    },
-                    "to": {
-                        "startLines": "438,527,528,529,577,578,581",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "21486,27548,27595,27642,33583,33628,33794",
-                        "endColumns": "41,46,46,46,44,44,41",
-                        "endOffsets": "21523,27590,27637,27684,33623,33668,33831"
-                    }
-                },
-                {
                     "source": "/home/anoop/.gradle/caches/transforms-3/a87f3349edb1c2fa52486bc3126d9e64/transformed/lifecycle-runtime-2.3.1/res/values/values.xml",
                     "from": {
                         "startLines": "2",
@@ -333,25 +352,6 @@
                         "startOffsets": "71448",
                         "endColumns": "42",
                         "endOffsets": "71486"
-                    }
-                },
-                {
-                    "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/res/values/themes.xml",
-                    "from": {
-                        "startLines": "2,21,16,23",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "100,968,817,1060",
-                        "endLines": "14,21,19,23",
-                        "endColumns": "12,90,12,80",
-                        "endOffsets": "811,1054,962,1136"
-                    },
-                    "to": {
-                        "startLines": "1356,1369,1370,1374",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "94572,95286,95376,95526",
-                        "endLines": "1368,1369,1373,1374",
-                        "endColumns": "12,89,12,79",
-                        "endOffsets": "95281,95371,95521,95601"
                     }
                 },
                 {

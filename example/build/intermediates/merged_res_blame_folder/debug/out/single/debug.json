@@ -1,310 +1,310 @@
 [
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/drawable-xxxhdpi_pay_with_google_button_background_image.9.png.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/drawable-xxxhdpi/pay_with_google_button_background_image.9.png"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/layout_card_brand_item.xml.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/layout/card_brand_item.xml"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/layout_klarna_source_activity.xml.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/klarna_source_activity.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/drawable_ic_brandicon_grabpay.xml.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/drawable/ic_brandicon_grabpay.xml"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/drawable_ic_launcher_foreground.xml.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/drawable/ic_launcher_foreground.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/mipmap-hdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/drawable-xhdpi_pay_with_google_button_background_image.9.png.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/drawable-xhdpi/pay_with_google_button_background_image.9.png"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/layout_customer_session_activity.xml.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/layout/customer_session_activity.xml"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/layout_google_pay_activity_playground.xml.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/google_pay_activity_playground.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/drawable-xxxhdpi_pay_with_google_button_background_image.9.png.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/drawable-xxxhdpi/pay_with_google_button_background_image.9.png"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/drawable-xxxhdpi_pay_with_google_button_background_image_focused.9.png.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/drawable-xxxhdpi/pay_with_google_button_background_image_focused.9.png"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/drawable_ic_brandicon__giropay.xml.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/drawable/ic_brandicon__giropay.xml"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/drawable-mdpi_pay_with_google_button_background_image.9.png.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/drawable-mdpi/pay_with_google_button_background_image.9.png"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/drawable-xxhdpi_pay_with_google_button_background_image_focused.9.png.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/drawable-xxhdpi/pay_with_google_button_background_image_focused.9.png"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/drawable_ic_brandicon__p24.xml.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/drawable/ic_brandicon__p24.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/layout_upi_payment_activity.xml.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/layout/upi_payment_activity.xml"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/layout_card_brand_item.xml.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/card_brand_item.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/layout_bacs_debit_activity.xml.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/layout/bacs_debit_activity.xml"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/drawable_ic_credit_card.xml.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/drawable/ic_credit_card.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/layout_sources_list_item.xml.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/layout/sources_list_item.xml"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/drawable-hdpi_pay_with_google_button_background_image_pressed.9.png.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/drawable-hdpi/pay_with_google_button_background_image_pressed.9.png"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/layout_create_sepa_debit_activity.xml.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/create_sepa_debit_activity.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/drawable-hdpi_pay_with_google_button_background_image.9.png.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/drawable-hdpi/pay_with_google_button_background_image.9.png"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/drawable-xxhdpi_pay_with_google_button_background_image_focused.9.png.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/drawable-xxhdpi/pay_with_google_button_background_image_focused.9.png"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/drawable-hdpi_pay_with_google_button_background_image_pressed.9.png.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/drawable-hdpi/pay_with_google_button_background_image_pressed.9.png"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/mipmap-xxxhdpi/ic_launcher_round.png"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/drawable-xxxhdpi_pay_with_google_button_background_image_focused.9.png.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/drawable-xxxhdpi/pay_with_google_button_background_image_focused.9.png"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/layout_customer_session_activity.xml.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/customer_session_activity.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/layout_token_item.xml.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/layout/token_item.xml"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/drawable-xhdpi_pay_with_google_button_background_image_pressed.9.png.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/drawable-xhdpi/pay_with_google_button_background_image_pressed.9.png"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/drawable-xhdpi_pay_with_google_button_background_image_pressed.9.png.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/drawable-xhdpi/pay_with_google_button_background_image_pressed.9.png"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/drawable_ic_shipping_method.xml.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/drawable/ic_shipping_method.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/drawable_pay_with_google_button_content.xml.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/drawable/pay_with_google_button_content.xml"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/layout_bank_selector_payment_activity.xml.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/bank_selector_payment_activity.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/layout_create_card_source_activity.xml.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/layout/create_card_source_activity.xml"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/drawable_ic_cancel.xml.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/drawable/ic_cancel.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/color_card_form_view_bg_color_overriden.xml.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/color/card_form_view_bg_color_overriden.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/drawable-mdpi_pay_with_google_button_background_image_pressed.9.png.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/drawable-mdpi/pay_with_google_button_background_image_pressed.9.png"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/layout_launcher_item.xml.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/launcher_item.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/drawable_ic_credit_card.xml.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/drawable/ic_credit_card.xml"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/layout_upi_waiting_activity.xml.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/upi_waiting_activity.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/drawable-xxhdpi_pay_with_google_button_background_image.9.png.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/drawable-xxhdpi/pay_with_google_button_background_image.9.png"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/drawable_ic_brandicon__bancontact.xml.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/drawable/ic_brandicon__bancontact.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/layout_google_pay_activity_playground.xml.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/layout/google_pay_activity_playground.xml"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/drawable-hdpi_pay_with_google_button_background_image_focused.9.png.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/drawable-hdpi/pay_with_google_button_background_image_focused.9.png"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/drawable/ic_launcher_foreground.xml"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/drawable-xxhdpi_pay_with_google_button_background_image_pressed.9.png.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/drawable-xxhdpi/pay_with_google_button_background_image_pressed.9.png"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/layout_simple_payment_method_activity.xml.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/simple_payment_method_activity.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/mipmap-xhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/layout_payment_session_activity.xml.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/payment_session_activity.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/layout_google_pay_button.xml.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/layout/google_pay_button.xml"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/layout_dropdown_menu_popup_item.xml.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/dropdown_menu_popup_item.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/layout_polling_list_headers.xml.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/layout/polling_list_headers.xml"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/mipmap-mdpi/ic_launcher.png"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/layout_simple_payment_method_activity.xml.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/layout/simple_payment_method_activity.xml"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/layout_sources_list_item.xml.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/sources_list_item.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/color_threeds2_footer_header.xml.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/color/threeds2_footer_header.xml"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/drawable_pay_with_google_button_content.xml.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/drawable/pay_with_google_button_content.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/layout_klarna_payment_activity.xml.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/layout/klarna_payment_activity.xml"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/drawable-mdpi_pay_with_google_button_background_image_pressed.9.png.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/drawable-mdpi/pay_with_google_button_background_image_pressed.9.png"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/drawable-xxhdpi_pay_with_google_button_background_image_pressed.9.png.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/drawable-xxhdpi/pay_with_google_button_background_image_pressed.9.png"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/layout_token_item.xml.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/token_item.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/layout_bank_selector_payment_activity.xml.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/layout/bank_selector_payment_activity.xml"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/layout_polling_list_headers.xml.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/polling_list_headers.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/drawable_ic_brandicon__p24.xml.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/drawable/ic_brandicon__p24.xml"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/mipmap-xxhdpi/ic_launcher_round.png"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/color_card_form_view_bg_color_overriden.xml.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/color/card_form_view_bg_color_overriden.xml"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/drawable_ic_check.xml.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/drawable/ic_check.xml"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/layout_bacs_debit_activity.xml.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/bacs_debit_activity.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/layout_create_sepa_debit_activity.xml.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/layout/create_sepa_debit_activity.xml"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/drawable-xxhdpi_pay_with_google_button_background_image.9.png.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/drawable-xxhdpi/pay_with_google_button_background_image.9.png"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/layout_netbanking_payment_activity.xml.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/layout/netbanking_payment_activity.xml"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/mipmap-xhdpi/ic_launcher.png"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/drawable-xhdpi_pay_with_google_button_background_image.9.png.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/drawable-xhdpi/pay_with_google_button_background_image.9.png"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/color_threeds2_footer_header.xml.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/color/threeds2_footer_header.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/drawable_ic_cancel.xml.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/drawable/ic_cancel.xml"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/mipmap-mdpi/ic_launcher_round.png"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/drawable_ic_brandicon__giropay.xml.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/drawable/ic_brandicon__giropay.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/layout_launcher_activity.xml.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/launcher_activity.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/drawable-mdpi_pay_with_google_button_background_image.9.png.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/drawable-mdpi/pay_with_google_button_background_image.9.png"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/drawable-mdpi_pay_with_google_button_background_image_focused.9.png.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/drawable-mdpi/pay_with_google_button_background_image_focused.9.png"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/layout_fragments_example_activity.xml.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/fragments_example_activity.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/drawable-hdpi_pay_with_google_button_background_image.9.png.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/drawable-hdpi/pay_with_google_button_background_image.9.png"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/drawable_pay_with_google_button_background.xml.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/drawable/pay_with_google_button_background.xml"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/layout_create_card_source_activity.xml.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/create_card_source_activity.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/layout_payment_auth_activity.xml.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/layout/payment_auth_activity.xml"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/drawable_pay_with_google_button_overlay.xml.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/drawable/pay_with_google_button_overlay.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/drawable_ic_brandicon__eps.xml.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/drawable/ic_brandicon__eps.xml"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/layout_create_card_token_activity.xml.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/create_card_token_activity.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/layout_upi_waiting_activity.xml.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/layout/upi_waiting_activity.xml"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/layout_add_payment_method_footer.xml.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/add_payment_method_footer.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/layout_launcher_item.xml.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/layout/launcher_item.xml"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/drawable_ic_brandicon__oxxo.xml.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/drawable/ic_brandicon__oxxo.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/drawable-hdpi_pay_with_google_button_background_image_focused.9.png.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/drawable-hdpi/pay_with_google_button_background_image_focused.9.png"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/drawable_ic_brandicon__eps.xml.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/drawable/ic_brandicon__eps.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/layout_launcher_activity.xml.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/layout/launcher_activity.xml"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/layout_sofort_activity.xml.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/sofort_activity.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/layout_fragments_example_activity.xml.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/layout/fragments_example_activity.xml"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/layout_create_card_payment_method_activity.xml.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/create_card_payment_method_activity.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/layout_card_brands_activity.xml.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/layout/card_brands_activity.xml"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/layout_google_pay_button.xml.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/google_pay_button.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/drawable_ic_brandicon__oxxo.xml.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/drawable/ic_brandicon__oxxo.xml"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/layout_connect_example_activity.xml.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/connect_example_activity.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/layout_create_card_token_activity.xml.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/layout/create_card_token_activity.xml"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/mipmap-hdpi/ic_launcher_round.png"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/drawable_ic_shipping_method.xml.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/drawable/ic_shipping_method.xml"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/mipmap-hdpi/ic_launcher.png"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/drawable-xhdpi_pay_with_google_button_background_image_focused.9.png.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/drawable-xhdpi/pay_with_google_button_background_image_focused.9.png"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/layout_launch_payment_session_fragment.xml.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/launch_payment_session_fragment.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/drawable-xxxhdpi_pay_with_google_button_background_image_pressed.9.png.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/drawable-xxxhdpi/pay_with_google_button_background_image_pressed.9.png"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/drawable_ic_check.xml.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/drawable/ic_check.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/drawable_ic_brandicon__bancontact.xml.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/drawable/ic_brandicon__bancontact.xml"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/layout_payment_auth_activity.xml.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/payment_auth_activity.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/layout_payment_session_activity.xml.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/layout/payment_session_activity.xml"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/layout_klarna_payment_activity.xml.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/klarna_payment_activity.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/layout_add_payment_method_footer.xml.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/layout/add_payment_method_footer.xml"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/layout_upi_payment_activity.xml.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/upi_payment_activity.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/layout_klarna_source_activity.xml.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/layout/klarna_source_activity.xml"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/drawable_ic_home.xml.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/drawable/ic_home.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/layout_create_card_payment_method_activity.xml.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/layout/create_card_payment_method_activity.xml"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/mipmap-xhdpi/ic_launcher_round.png"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/layout_card_brands_activity.xml.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/card_brands_activity.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/mipmap-mdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/layout_netbanking_payment_activity.xml.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/netbanking_payment_activity.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/layout_dropdown_menu_popup_item.xml.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/layout/dropdown_menu_popup_item.xml"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/drawable_ic_brandicon_grabpay.xml.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/drawable/ic_brandicon_grabpay.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/layout_becs_debit_activity.xml.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/layout/becs_debit_activity.xml"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/drawable-xhdpi_pay_with_google_button_background_image_focused.9.png.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/drawable-xhdpi/pay_with_google_button_background_image_focused.9.png"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/mipmap-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/drawable-xxxhdpi_pay_with_google_button_background_image_pressed.9.png.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/drawable-xxxhdpi/pay_with_google_button_background_image_pressed.9.png"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/layout_connect_example_activity.xml.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/layout/connect_example_activity.xml"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/drawable-mdpi_pay_with_google_button_background_image_focused.9.png.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/drawable-mdpi/pay_with_google_button_background_image_focused.9.png"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/layout_google_pay_activity.xml.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/layout/google_pay_activity.xml"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/layout_google_pay_activity.xml.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/google_pay_activity.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/drawable_pay_with_google_button_overlay.xml.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/drawable/pay_with_google_button_overlay.xml"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/layout_becs_debit_activity.xml.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/becs_debit_activity.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/layout_sofort_activity.xml.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/layout/sofort_activity.xml"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/layout_launch_payment_session_fragment.xml.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/layout/launch_payment_session_fragment.xml"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/layout_payment_method_item.xml.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/layout/payment_method_item.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/layout_payment_method_item.xml.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/layout/payment_method_item.xml"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/merged_res/debug/drawable_pay_with_google_button_background.xml.flat",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/res/drawable/pay_with_google_button_background.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/merged_res/debug/drawable_ic_home.xml.flat",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/res/drawable/ic_home.xml"
     }
 ]

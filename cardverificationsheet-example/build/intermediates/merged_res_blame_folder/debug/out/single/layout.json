@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/res/layout/activity_main.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_launch_card_verification_sheet_complete.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/res/layout/activity_launch_card_verification_sheet_complete.xml"
     },
     {
-        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_launch_card_verification_sheet_complete.xml",
-        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/src/main/res/layout/activity_launch_card_verification_sheet_complete.xml"
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/src/main/res/layout/activity_main.xml"
     }
 ]

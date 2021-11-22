@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/build/intermediates/merged_res/debug/menu/paymentsheet_payment_methods_list.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/res/menu/paymentsheet_payment_methods_list.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/build/intermediates/merged_res/debug/menu/example_menu.xml",
+        "source": "/home/anoop/.gradle/caches/transforms-3/bfad5d851342d1ed67694643b40debfc/transformed/core-1.7.0/res/menu/example_menu.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/build/intermediates/merged_res/debug/menu/example_menu2.xml",
+        "source": "/home/anoop/.gradle/caches/transforms-3/bfad5d851342d1ed67694643b40debfc/transformed/core-1.7.0/res/menu/example_menu2.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/build/intermediates/merged_res/debug/menu/add_payment_method.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/payments-core/build/intermediates/packaged_res/debug/menu/add_payment_method.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/build/intermediates/merged_res/debug/menu/payment_auth_web_view_menu.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/payments-core/build/intermediates/packaged_res/debug/menu/payment_auth_web_view_menu.xml"
+    }
+]

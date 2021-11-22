@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/wechatpay/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/wechatpay/build/intermediates/merged_res/debug/values-night-v8/values-night-v8.xml",
             "map": [
                 {
                     "source": "/home/anoop/.gradle/caches/transforms-3/0ab41d6cec6609941d79545945c6e638/transformed/stripe-3ds2-android-6.1.2/res/values-night-v8/values-night-v8.xml",
@@ -40,7 +40,7 @@
                     }
                 },
                 {
-                    "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/payments-core/build/intermediates/packaged_res/debug/values-night-v8/values-night-v8.xml",
+                    "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/payments-core/build/intermediates/packaged_res/debug/values-night-v8/values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -76,7 +76,7 @@
             ]
         },
         {
-            "outputFile": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/wechatpay/build/intermediates/merged_res/debug/values-night-v8/values-night-v8.xml",
+            "outputFile": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/wechatpay/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
                     "source": "/home/anoop/.gradle/caches/transforms-3/0ab41d6cec6609941d79545945c6e638/transformed/stripe-3ds2-android-6.1.2/res/values-night-v8/values-night-v8.xml",
@@ -115,7 +115,7 @@
                     }
                 },
                 {
-                    "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/payments-core/build/intermediates/packaged_res/debug/values-night-v8/values-night-v8.xml",
+                    "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/payments-core/build/intermediates/packaged_res/debug/values-night-v8/values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

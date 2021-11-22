@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/wechatpay/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h360dp-land-v13/values-h360dp-land-v13.xml",
+            "outputFile": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/wechatpay/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h360dp-land-v13/values-h360dp-land-v13.xml",
             "map": [
                 {
                     "source": "/home/anoop/.gradle/caches/transforms-3/686584baae0d6263fccf2039cacb7bbe/transformed/material-1.4.0/res/values-h360dp-land-v13/values-h360dp-land-v13.xml",
@@ -16,7 +16,7 @@
             ]
         },
         {
-            "outputFile": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/wechatpay/build/intermediates/merged_res/debug/values-h360dp-land-v13/values-h360dp-land-v13.xml",
+            "outputFile": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/wechatpay/build/intermediates/merged_res/debug/values-h360dp-land-v13/values-h360dp-land-v13.xml",
             "map": [
                 {
                     "source": "/home/anoop/.gradle/caches/transforms-3/686584baae0d6263fccf2039cacb7bbe/transformed/material-1.4.0/res/values-h360dp-land-v13/values-h360dp-land-v13.xml",

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/payments-core/build/intermediates/merged_res/debug/drawable-night-v8/stripe_ic_cvc.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/payments-core/res/drawable-night/stripe_ic_cvc.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/payments-core/build/intermediates/merged_res/debug/drawable-night-v8/ic_arrow.xml",
+        "source": "/home/anoop/.gradle/caches/transforms-3/0ab41d6cec6609941d79545945c6e638/transformed/stripe-3ds2-android-6.1.2/res/drawable-night-v8/ic_arrow.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/payments-core/build/intermediates/merged_res/debug/drawable-night-v8/stripe_ic_paymentsheet_cvc.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/payments-core/res/drawable-night/stripe_ic_paymentsheet_cvc.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/payments-core/build/intermediates/merged_res/debug/drawable-night-v8/stripe_ic_cvc_amex.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/payments-core/res/drawable-night/stripe_ic_cvc_amex.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/payments-core/build/intermediates/merged_res/debug/drawable-night-v8/stripe_ic_unknown.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/payments-core/res/drawable-night/stripe_ic_unknown.xml"
+    }
+]

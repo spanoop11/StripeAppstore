@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/build/intermediates/merged_res/debug/font/font_roboto_bold.ttf",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/res/font/font_roboto_bold.ttf"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/build/intermediates/merged_res/debug/font/font_roboto_light.ttf",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/res/font/font_roboto_light.ttf"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/build/intermediates/merged_res/debug/font/font_roboto_medium.ttf",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/res/font/font_roboto_medium.ttf"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/build/intermediates/merged_res/debug/font/font_dejavu_serif.ttf",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/res/font/font_dejavu_serif.ttf"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/build/intermediates/merged_res/debug/font/font_roboto_black.ttf",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/res/font/font_roboto_black.ttf"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/build/intermediates/merged_res/debug/font/font_roboto_italic.ttf",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/res/font/font_roboto_italic.ttf"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/build/intermediates/merged_res/debug/font/font_roboto_regular.ttf",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/res/font/font_roboto_regular.ttf"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/build/intermediates/merged_res/debug/font/font_dejavu_serif_bold.ttf",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/res/font/font_dejavu_serif_bold.ttf"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/build/intermediates/merged_res/debug/font/font_roboto_thin.ttf",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/res/font/font_roboto_thin.ttf"
+    }
+]

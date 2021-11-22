@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "outputFile": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/paymentsheet/build/intermediates/packaged_res/debug/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/build/intermediates/packaged_res/debug/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

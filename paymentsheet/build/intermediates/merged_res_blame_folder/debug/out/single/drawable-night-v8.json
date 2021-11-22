@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/build/intermediates/merged_res/debug/drawable-night-v8/stripe_ic_paymentsheet_card_discover.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/res/drawable-night/stripe_ic_paymentsheet_card_discover.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/build/intermediates/merged_res/debug/drawable-night-v8/stripe_ic_paymentsheet_card_jcb.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/res/drawable-night/stripe_ic_paymentsheet_card_jcb.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/build/intermediates/merged_res/debug/drawable-night-v8/stripe_ic_paymentsheet_card_dinersclub.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/res/drawable-night/stripe_ic_paymentsheet_card_dinersclub.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/build/intermediates/merged_res/debug/drawable-night-v8/stripe_ic_paymentsheet_pm_ideal.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/res/drawable-night/stripe_ic_paymentsheet_pm_ideal.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/build/intermediates/merged_res/debug/drawable-night-v8/stripe_ic_paymentsheet_cvc.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/res/drawable-night/stripe_ic_paymentsheet_cvc.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/build/intermediates/merged_res/debug/drawable-night-v8/stripe_ic_paymentsheet_pm_klarna.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/res/drawable-night/stripe_ic_paymentsheet_pm_klarna.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/build/intermediates/merged_res/debug/drawable-night-v8/stripe_ic_unknown.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/payments-core/build/intermediates/packaged_res/debug/drawable-night-v8/stripe_ic_unknown.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/build/intermediates/merged_res/debug/drawable-night-v8/stripe_ic_paymentsheet_pm_giropay.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/res/drawable-night/stripe_ic_paymentsheet_pm_giropay.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/build/intermediates/merged_res/debug/drawable-night-v8/stripe_ic_paymentsheet_card_unknown.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/res/drawable-night/stripe_ic_paymentsheet_card_unknown.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/build/intermediates/merged_res/debug/drawable-night-v8/stripe_ic_paymentsheet_add.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/res/drawable-night/stripe_ic_paymentsheet_add.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/build/intermediates/merged_res/debug/drawable-night-v8/stripe_ic_cvc.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/payments-core/build/intermediates/packaged_res/debug/drawable-night-v8/stripe_ic_cvc.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/build/intermediates/merged_res/debug/drawable-night-v8/stripe_ic_cvc_amex.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/payments-core/build/intermediates/packaged_res/debug/drawable-night-v8/stripe_ic_cvc_amex.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/build/intermediates/merged_res/debug/drawable-night-v8/stripe_ic_paymentsheet_pm_eps.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/res/drawable-night/stripe_ic_paymentsheet_pm_eps.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/build/intermediates/merged_res/debug/drawable-night-v8/stripe_googlepay_button_content.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/res/drawable-night/stripe_googlepay_button_content.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/build/intermediates/merged_res/debug/drawable-night-v8/stripe_ic_paymentsheet_pm_card.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/res/drawable-night/stripe_ic_paymentsheet_pm_card.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/build/intermediates/merged_res/debug/drawable-night-v8/ic_arrow.xml",
+        "source": "/home/anoop/.gradle/caches/transforms-3/0ab41d6cec6609941d79545945c6e638/transformed/stripe-3ds2-android-6.1.2/res/drawable-night-v8/ic_arrow.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/build/intermediates/merged_res/debug/drawable-night-v8/stripe_ic_paymentsheet_pm_sepa_debit.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/res/drawable-night/stripe_ic_paymentsheet_pm_sepa_debit.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/build/intermediates/merged_res/debug/drawable-night-v8/stripe_ic_paymentsheet_pm_afterpay_clearpay.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/res/drawable-night/stripe_ic_paymentsheet_pm_afterpay_clearpay.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/build/intermediates/merged_res/debug/drawable-night-v8/stripe_ic_paymentsheet_card_amex.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/res/drawable-night/stripe_ic_paymentsheet_card_amex.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/build/intermediates/merged_res/debug/drawable-night-v8/stripe_googlepay_button_overlay.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/res/drawable-night/stripe_googlepay_button_overlay.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/build/intermediates/merged_res/debug/drawable-night-v8/stripe_ic_paymentsheet_card_unionpay.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/res/drawable-night/stripe_ic_paymentsheet_card_unionpay.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/build/intermediates/merged_res/debug/drawable-night-v8/stripe_ic_paymentsheet_pm_bancontact.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/res/drawable-night/stripe_ic_paymentsheet_pm_bancontact.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/build/intermediates/merged_res/debug/drawable-night-v8/stripe_ic_paymentsheet_card_mastercard.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/res/drawable-night/stripe_ic_paymentsheet_card_mastercard.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/build/intermediates/merged_res/debug/drawable-night-v8/stripe_ic_paymentsheet_pm_p24.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/res/drawable-night/stripe_ic_paymentsheet_pm_p24.xml"
+    },
+    {
+        "merged": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/build/intermediates/merged_res/debug/drawable-night-v8/stripe_ic_paymentsheet_card_visa.xml",
+        "source": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/paymentsheet/res/drawable-night/stripe_ic_paymentsheet_card_visa.xml"
+    }
+]

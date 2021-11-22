@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/anoop/Visteon/StripePaymentSDK/stripe-android/cardverificationsheet-example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w600dp-land-v13/values-w600dp-land-v13.xml",
+            "outputFile": "/home/anoop/Visteon/StripePaymentSDK/stripe-appstore/cardverificationsheet-example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w600dp-land-v13/values-w600dp-land-v13.xml",
             "map": [
                 {
                     "source": "/home/anoop/.gradle/caches/transforms-3/686584baae0d6263fccf2039cacb7bbe/transformed/material-1.4.0/res/values-w600dp-land-v13/values-w600dp-land-v13.xml",
