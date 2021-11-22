@@ -234,7 +234,8 @@ internal class PaymentSheetActivity : BaseSheetActivity<PaymentSheetResult>() {
             viewModel.amount.observe(this) {
                 viewBinding.buyButton.setLabel(getLabelText(requireNotNull(it)))
                 viewBinding.buyButton.setBackgroundResource(
-                    R.drawable.stripe_paymentsheet_button_bg)
+                    R.drawable.stripe_paymentsheet_button_bg
+                )
             }
         } else {
             viewBinding.buyButton.setLabel(
