@@ -110,7 +110,7 @@ class CountryTextInputLayout @JvmOverloads internal constructor(
             countryAutocomplete,
             LayoutParams(LayoutParams.MATCH_PARENT, LayoutParams.WRAP_CONTENT)
         )
-        //Appstore change
+        // Appstore change
         countryAutocomplete.setTextColor(Color.WHITE)
 
         countryAdapter = CountryAdapter(

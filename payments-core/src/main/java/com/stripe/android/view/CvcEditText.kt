@@ -1,7 +1,6 @@
 package com.stripe.android.view
 
 import android.content.Context
-import android.graphics.Color
 import android.os.Build
 import android.text.InputFilter
 import android.util.AttributeSet
