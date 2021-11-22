@@ -25,7 +25,7 @@ import com.stripe.android.paymentsheet.databinding.StripeBillingAddressLayoutBin
 import com.stripe.android.view.Country
 import com.stripe.android.view.CountryUtils
 import com.stripe.android.view.PostalCodeValidator
-import java.util.*
+import java.util.Locale
 import kotlin.properties.Delegates
 
 internal class BillingAddressView @JvmOverloads constructor(
