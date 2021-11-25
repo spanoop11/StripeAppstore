@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.stripe</groupId>
   <artifactId>paymentsheet</artifactId>
-  <version>18.2.0</version>
+  <version>0.1.7</version>
   <packaging>aar</packaging>
   <name>paymentsheet</name>
   <description>The paymentsheet module of Stripe Payment Android SDK</description>
@@ -42,7 +42,7 @@
     <dependency>
       <groupId>com.stripe</groupId>
       <artifactId>payments-core</artifactId>
-      <version>18.2.0</version>
+      <version>0.1.7</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>

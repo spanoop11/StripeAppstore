@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.stripe</groupId>
   <artifactId>stripe-wechatpay</artifactId>
-  <version>18.2.0</version>
+  <version>0.1.7</version>
   <packaging>aar</packaging>
   <name>stripe-wechatpay</name>
   <description>The WeChat Pay module of Stripe Android Payments SDK</description>
@@ -36,7 +36,7 @@
     <dependency>
       <groupId>com.stripe</groupId>
       <artifactId>payments-core</artifactId>
-      <version>18.2.0</version>
+      <version>0.1.7</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
