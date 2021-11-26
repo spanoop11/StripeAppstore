@@ -4,7 +4,6 @@ import android.annotation.SuppressLint
 import android.app.Activity
 import android.content.Intent
 import android.content.pm.ActivityInfo
-import android.graphics.Color
 import android.os.Build
 import android.os.Bundle
 import androidx.activity.viewModels
@@ -45,7 +44,7 @@ internal class PaymentLauncherConfirmationActivity : AppCompatActivity() {
             // In Oreo, Activities where `android:windowIsTranslucent=true` can't request
             // orientation. See https://stackoverflow.com/a/50832408/11103900
             // Appstore change
-            // requestedOrientation = ActivityInfo.SCREEN_ORIENTATION_PORTRAIT
+             requestedOrientation = ActivityInfo.SCREEN_ORIENTATION_FULL_SENSOR
         }
 
         disableAnimations()
