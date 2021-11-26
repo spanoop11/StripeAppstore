@@ -1,5 +1,6 @@
 package com.stripe.android.paymentsheet
 
+import android.graphics.Color
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
@@ -88,9 +89,10 @@ internal abstract class BaseAddPaymentMethodFragment(
             SupportedPaymentMethod.fromCode(savedInstanceState?.getString(SELECTED_PAYMENT_METHOD))
         ).takeUnless { it == -1 } ?: 0
 
-        if (paymentMethods.size > 1) {
+        // Appstore change
+        /*if (paymentMethods.size > 1) {
             setupRecyclerView(viewBinding, paymentMethods, selectedPaymentMethodIndex)
-        }
+        }*/
 
         if (paymentMethods.isNotEmpty()) {
             replacePaymentMethodFragment(paymentMethods[selectedPaymentMethodIndex])

@@ -1,6 +1,7 @@
 package com.stripe.android.view
 
 import android.content.Context
+import android.graphics.Color
 import android.os.Build
 import android.text.InputFilter
 import android.util.AttributeSet
@@ -39,7 +40,6 @@ class CvcEditText @JvmOverloads constructor(
     init {
         setErrorMessage(resources.getString(R.string.invalid_cvc))
         setHint(R.string.cvc_number_hint)
-        setTextColor(resources.getColor(R.color.stripe_paymentsheet_editetext_text_color))
         maxLines = 1
         filters = createFilters(CardBrand.Unknown)
 
@@ -50,6 +50,7 @@ class CvcEditText @JvmOverloads constructor(
         }
 
         doAfterTextChanged {
+            setTextColor(Color.WHITE) // Appstore change
             shouldShowError = false
             if (cardBrand.isMaxCvc(unvalidatedCvc.normalized)) {
                 completionCallback()

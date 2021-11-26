@@ -1,5 +1,6 @@
 package com.stripe.android.view
 
+import android.annotation.SuppressLint
 import android.content.Context
 import android.graphics.Color
 import android.os.Parcelable
@@ -33,6 +34,7 @@ import kotlin.properties.Delegates
  * [R.styleable.StripeCountryAutoCompleteTextInputLayout_countryItemLayout], note this layout must
  * be a [TextView].
  */
+@SuppressLint("UseCompatLoadingForDrawables")
 @RestrictTo(RestrictTo.Scope.LIBRARY_GROUP) // For paymentsheet
 class CountryTextInputLayout @JvmOverloads internal constructor(
     context: Context,
@@ -124,6 +126,10 @@ class CountryTextInputLayout @JvmOverloads internal constructor(
 
         countryAutocomplete.threshold = 0
         countryAutocomplete.setAdapter(countryAdapter)
+        // Appstore change
+        countryAutocomplete.setDropDownBackgroundDrawable(
+            resources.getDrawable(R.drawable.stripe_paymentsheet_edittext_bg)
+        )
         countryAutocomplete.onItemClickListener =
             AdapterView.OnItemClickListener { _, _, position, _ ->
                 updatedSelectedCountryCode(countryAdapter.getItem(position).code)

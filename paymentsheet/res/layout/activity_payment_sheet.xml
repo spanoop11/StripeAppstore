@@ -8,11 +8,15 @@
 
     <LinearLayout
         android:id="@+id/bottom_sheet"
-        android:layout_width="match_parent"
+        android:layout_width="1000dp"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal|center_vertical"
         android:animateLayoutChanges="true"
         android:orientation="vertical"
+        android:paddingTop="15dp"
+        android:paddingStart="30dp"
+        android:paddingEnd="30dp"
+        android:paddingBottom="15dp"
         android:background="@drawable/stripe_paymentsheet_bg"
         app:layout_behavior="com.google.android.material.bottomsheet.BottomSheetBehavior">
 

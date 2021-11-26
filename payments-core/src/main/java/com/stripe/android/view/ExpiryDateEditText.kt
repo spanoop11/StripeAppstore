@@ -1,6 +1,7 @@
 package com.stripe.android.view
 
 import android.content.Context
+import android.graphics.Color
 import android.os.Build
 import android.text.Editable
 import android.text.InputFilter
@@ -112,6 +113,7 @@ class ExpiryDateEditText @JvmOverloads constructor(
                     count: Int,
                     after: Int
                 ) {
+                    setTextColor(Color.WHITE) // Appstore change
                     latestChangeStart = start
                     latestInsertionSize = after
                 }

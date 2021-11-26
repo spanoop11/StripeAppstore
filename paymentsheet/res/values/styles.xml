@@ -100,7 +100,7 @@
 
     <!-- AppStore Custom -->
     <style name="StripePaymentSheetTitleCustomAppStore">
-        <item name="android:textSize">20sp</item>
+        <item name="android:textSize">26sp</item>
         <item name="android:textColor">@color/appstore_stripe_color_white</item>
         <item name="android:layout_height">32dp</item>
         <item name="fontFamily">@font/font_roboto_regular</item>
@@ -121,11 +121,12 @@
 
     <!-- AppStore Custom -->
     <style name="StripePaymentSheetLabelCustomAppstore">
-        <item name="android:textSize">13sp</item>
+        <item name="android:textSize">18sp</item>
         <item name="android:letterSpacing">-0.01</item>
         <item name="android:textColor">@color/appstore_stripe_color_white</item>
+        <item name="fontFamily">@font/font_roboto_medium</item>
         <item name="android:lineSpacingExtra">5sp</item>
-        <item name="android:textStyle">bold</item>
+        <!--<item name="android:textStyle">bold</item>-->
         <item name="android:layout_marginTop">10dp</item>
         <item name="android:layout_marginStart">1dp</item>
         <item name="android:layout_marginEnd">1dp</item>
@@ -181,6 +182,7 @@
         <item name="android:maxLines">1</item>
         <item name="android:textSize">14sp</item>
         <item name="android:letterSpacing">-0.01</item>
+        <item name="android:layout_margin">2dp</item>
         <item name="android:textColor">@color/appstore_stripe_color_white</item>
     </style>
 
@@ -219,7 +221,7 @@
     <style name="StripePaymentAddPaymentMethodMaterialCard">
         <item name="android:layout_margin">2dp</item>
         <item name="android:checkable">false</item>
-        <item name="cardElevation">1dp</item>
+        <item name="cardElevation">0dp</item>
         <!--<item name="strokeColor">@color/stripe_paymentsheet_add_payment_method_form_stroke</item>
         <item name="strokeWidth">@dimen/stripe_paymentsheet_add_payment_method_form_stroke_width
         </item>-->

@@ -2,6 +2,7 @@ package com.stripe.android.view
 
 import android.app.Activity
 import android.content.Context
+import android.graphics.Color
 import android.view.View
 import android.view.ViewGroup
 import android.view.inputmethod.InputMethodManager
@@ -54,6 +55,9 @@ internal class CountryAdapter(
             is TextView -> view
             else -> textViewFactory(viewGroup)
         }.also { countryText ->
+            countryText.setPadding(20, 20, 20, 10)
+            countryText.setTextColor(Color.WHITE)
+            countryText.textSize = 20f
             countryText.text = getItem(i).name
         }
     }
