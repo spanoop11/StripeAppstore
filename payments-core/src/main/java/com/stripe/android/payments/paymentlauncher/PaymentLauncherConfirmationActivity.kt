@@ -44,7 +44,7 @@ internal class PaymentLauncherConfirmationActivity : AppCompatActivity() {
             // In Oreo, Activities where `android:windowIsTranslucent=true` can't request
             // orientation. See https://stackoverflow.com/a/50832408/11103900
             // Appstore change
-             requestedOrientation = ActivityInfo.SCREEN_ORIENTATION_FULL_SENSOR
+            requestedOrientation = ActivityInfo.SCREEN_ORIENTATION_FULL_SENSOR
         }
 
         disableAnimations()
