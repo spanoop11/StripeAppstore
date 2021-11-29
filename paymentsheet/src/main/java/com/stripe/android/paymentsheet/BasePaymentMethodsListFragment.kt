@@ -1,5 +1,6 @@
 package com.stripe.android.paymentsheet
 
+import android.graphics.Color
 import android.os.Bundle
 import android.view.Menu
 import android.view.MenuInflater
@@ -16,6 +17,12 @@ import com.stripe.android.paymentsheet.model.PaymentSelection
 import com.stripe.android.paymentsheet.model.SupportedPaymentMethod
 import com.stripe.android.paymentsheet.ui.BaseSheetActivity
 import com.stripe.android.paymentsheet.viewmodels.BaseSheetViewModel
+import android.util.TypedValue
+
+import android.widget.TextView
+
+
+
 
 internal abstract class BasePaymentMethodsListFragment(
     private val canClickSelectedItem: Boolean,
@@ -67,6 +74,10 @@ internal abstract class BasePaymentMethodsListFragment(
         // Menu is created after view state is restored, so we need to update the title here
         editMenuItem = menu.findItem(R.id.edit).apply {
             setTitle(if (isEditing) R.string.done else R.string.edit)
+        }
+        // Make text colour white for Appstore
+        if (editMenuItem != null && editMenuItem is TextView) {
+            (editMenuItem as TextView).setTextColor(Color.WHITE)
         }
         super.onCreateOptionsMenu(menu, inflater)
     }

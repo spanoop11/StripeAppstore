@@ -143,7 +143,8 @@
     </style>
 
     <style name="StripePaymentSheetTotalLabelCustomAppstore">
-        <item name="android:textSize">13sp</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:textSize">20sp</item>
         <item name="android:letterSpacing">-0.01</item>
         <item name="android:textColor">@color/stripe_paymentsheet_editetext_text_color</item>
         <item name="android:lineSpacingExtra">5sp</item>
