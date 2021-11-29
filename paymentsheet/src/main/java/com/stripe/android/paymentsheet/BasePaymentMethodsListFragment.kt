@@ -19,7 +19,6 @@ import com.stripe.android.paymentsheet.model.SupportedPaymentMethod
 import com.stripe.android.paymentsheet.ui.BaseSheetActivity
 import com.stripe.android.paymentsheet.viewmodels.BaseSheetViewModel
 
-
 internal abstract class BasePaymentMethodsListFragment(
     private val canClickSelectedItem: Boolean,
     private val eventReporter: EventReporter
