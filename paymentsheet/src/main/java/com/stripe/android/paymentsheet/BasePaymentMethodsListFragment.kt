@@ -39,9 +39,9 @@ internal abstract class BasePaymentMethodsListFragment(
             field = value
             adapter.setEditing(value)
             text = if (value) {
-                R.string.done.toString()
+                resources.getString(R.string.done)
             } else {
-                R.string.edit.toString()
+                resources.getString(R.string.edit)
             }
             val spanString = SpannableString(text)
             spanString.setSpan(
@@ -83,9 +83,9 @@ internal abstract class BasePaymentMethodsListFragment(
         // Menu is created after view state is restored, so we need to update the title here
         editMenuItem = menu.findItem(R.id.edit).apply {
             text = if (isEditing) {
-                R.string.done.toString()
+                resources.getString(R.string.done)
             } else {
-                R.string.edit.toString()
+                resources.getString(R.string.edit)
             }
             val spanString = SpannableString(text)
             spanString.setSpan(
