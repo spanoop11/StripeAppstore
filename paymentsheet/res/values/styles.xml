@@ -17,6 +17,7 @@
         <item name="android:paddingEnd">0dp</item>
         <item name="android:paddingTop">4dp</item>
         <item name="android:paddingBottom">4dp</item>
+        <item name="android:background">@drawable/stripe_paymentsheet_edittext_bg</item>
     </style>
 
     <style name="StripePaymentOptionItemCard">
@@ -81,7 +82,7 @@
     </style>
 
     <style name="StripePaymentSheetPaymentMethodsLabel">
-        <item name="android:textColor">@color/stripe_paymentsheet_payment_method_label_text_states
+        <item name="android:textColor">@color/stripe_paymentsheet_editetext_text_color
         </item>
         <item name="android:textSize">13sp</item>
         <item name="android:textStyle">bold</item>
@@ -137,6 +138,14 @@
         <item name="android:textSize">13sp</item>
         <item name="android:letterSpacing">-0.01</item>
         <item name="android:textColor">@color/stripe_paymentsheet_header_text</item>
+        <item name="android:lineSpacingExtra">5sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="StripePaymentSheetTotalLabelCustomAppstore">
+        <item name="android:textSize">13sp</item>
+        <item name="android:letterSpacing">-0.01</item>
+        <item name="android:textColor">@color/stripe_paymentsheet_editetext_text_color</item>
         <item name="android:lineSpacingExtra">5sp</item>
         <item name="android:textStyle">bold</item>
     </style>

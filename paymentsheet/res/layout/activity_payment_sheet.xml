@@ -25,15 +25,15 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:animateLayoutChanges="true"
-            android:visibility="gone"
+            android:visibility="visible"
             app:elevation="0dp">
 
             <com.google.android.material.appbar.MaterialToolbar
                 android:id="@+id/toolbar"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:background="?colorSurface"
-                android:paddingEnd="12dp"
+                android:background="@drawable/stripe_paymentsheet_toolbar_bg"
+                android:paddingEnd="10dp"
                 app:contentInsetStart="0dp"
                 app:contentInsetStartWithNavigation="0dp"
                 tools:ignore="RtlSymmetry">
