@@ -2,11 +2,12 @@ package com.stripe.android.paymentsheet
 
 import android.graphics.Color
 import android.os.Bundle
+import android.text.SpannableString
+import android.text.style.ForegroundColorSpan
 import android.view.Menu
 import android.view.MenuInflater
 import android.view.MenuItem
 import android.view.View
-import android.widget.TextView
 import androidx.annotation.VisibleForTesting
 import androidx.appcompat.app.AlertDialog
 import androidx.fragment.app.Fragment
@@ -30,13 +31,26 @@ internal abstract class BasePaymentMethodsListFragment(
     protected lateinit var config: FragmentConfig
     private lateinit var adapter: PaymentOptionsAdapter
     private var editMenuItem: MenuItem? = null
+    private lateinit var text: String
 
     @VisibleForTesting
     internal var isEditing = false
         set(value) {
             field = value
             adapter.setEditing(value)
-            editMenuItem?.setTitle(if (value) R.string.done else R.string.edit)
+            text = if (value) {
+                R.string.done.toString()
+            } else {
+                R.string.edit.toString()
+            }
+            val spanString = SpannableString(text)
+            spanString.setSpan(
+                ForegroundColorSpan(Color.WHITE),
+                0,
+                spanString.length,
+                0
+            ) // fix the color to white
+            editMenuItem?.title = spanString
             sheetViewModel.setEditing(value)
         }
 
@@ -68,11 +82,19 @@ internal abstract class BasePaymentMethodsListFragment(
         inflater.inflate(R.menu.paymentsheet_payment_methods_list, menu)
         // Menu is created after view state is restored, so we need to update the title here
         editMenuItem = menu.findItem(R.id.edit).apply {
-            setTitle(if (isEditing) R.string.done else R.string.edit)
-        }
-        // Make text colour white for Appstore
-        if (editMenuItem != null && editMenuItem is TextView) {
-            (editMenuItem as TextView).setTextColor(Color.WHITE)
+            text = if (isEditing) {
+                R.string.done.toString()
+            } else {
+                R.string.edit.toString()
+            }
+            val spanString = SpannableString(text)
+            spanString.setSpan(
+                ForegroundColorSpan(Color.WHITE),
+                0,
+                spanString.length,
+                0
+            ) // fix the color to white
+            title = spanString
         }
         super.onCreateOptionsMenu(menu, inflater)
     }
