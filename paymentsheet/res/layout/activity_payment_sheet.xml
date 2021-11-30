@@ -8,8 +8,8 @@
 
     <LinearLayout
         android:id="@+id/bottom_sheet"
-        android:layout_width="1000dp"
-        android:layout_height="wrap_content"
+        android:layout_width="735dp"
+        android:layout_height="450dp"
         android:layout_gravity="center_horizontal|center_vertical"
         android:animateLayoutChanges="true"
         android:orientation="vertical"
@@ -59,7 +59,16 @@
         <ScrollView
             android:id="@+id/scroll_view"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content">
+            android:layout_height="wrap_content"
+            android:scrollbars="vertical"
+            android:scrollIndicators="end"
+            android:scrollbarStyle="insideInset"
+            android:scrollbarSize="10dp"
+            android:layout_marginTop="20dp"
+            android:scrollbarTrackVertical="@drawable/stripe_paymentsheet_scrollbar_track_bg"
+            android:scrollbarThumbVertical="@drawable/stripe_paymentsheet_scrollbar_thumb_bg"
+            android:fadeScrollbars="false"
+            android:verticalScrollbarPosition="right">
 
             <LinearLayout
                 android:id="@+id/fragment_container_parent"

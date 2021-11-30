@@ -225,7 +225,7 @@ internal class PaymentOptionsAdapter(
             val targetWidth = parent.measuredWidth - parent.paddingStart - parent.paddingEnd
             // minimum width for each item, accounting for the CardView margin so that the CardView
             // is at least 100dp wide
-            val minItemWidth = 100 * parent.context.resources.displayMetrics.density +
+            val minItemWidth = 179 * parent.context.resources.displayMetrics.density +
                 cardView.marginEnd + cardView.marginStart
             // numVisibleItems is incremented in steps of 0.5 items (1, 1.5, 2, 2.5, 3, ...)
             val numVisibleItems = (targetWidth * 2 / minItemWidth).toInt() / 2f

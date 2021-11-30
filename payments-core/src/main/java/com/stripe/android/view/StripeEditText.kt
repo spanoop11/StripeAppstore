@@ -275,7 +275,7 @@ open class StripeEditText @JvmOverloads constructor(
      */
     override fun addTextChangedListener(watcher: TextWatcher?) {
         super.addTextChangedListener(watcher)
-
+        textSize = 18f
         watcher?.let {
             textWatchers?.add(it)
         }

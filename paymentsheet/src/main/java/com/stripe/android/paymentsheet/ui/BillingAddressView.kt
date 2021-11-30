@@ -116,6 +116,7 @@ internal class BillingAddressView @JvmOverloads constructor(
             postalCodeView.inputType = config.inputType
         }
 
+        countryView.textSize = 18f
         countryView.setBackgroundResource(R.drawable.stripe_paymentsheet_edittext_bg)
         postalCodeView.setBackgroundResource(R.drawable.stripe_paymentsheet_edittext_bg)
     }
