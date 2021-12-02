@@ -4,8 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:orientation="vertical"
-    android:layout_marginTop="@dimen/stripe_paymentsheet_paymentoptions_margin_top"
-    android:layout_marginBottom="@dimen/stripe_paymentsheet_paymentoptions_margin_bottom"
+    android:layout_marginBottom="10dp"
     tools:context=".paymentsheet.PaymentSheetListFragment">
 
     <TextView
